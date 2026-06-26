@@ -1,0 +1,11 @@
+vendor/
+
+storage/download/*
+
+storage/extract/*
+
+storage/archive/*
+
+storage/failed/*
+
+storage/logs/*
