@@ -1,19 +1,17 @@
 {
-    "name": "deny/posdata-etl",
-
+    "name": "deny2311/posdata-etl-engine",
     "description": "POSDATA ETL ENGINE",
-
     "type": "project",
 
     "autoload": {
-
         "psr-4": {
-
             "App\\": "app/"
         }
-
     },
 
-    "require": {}
+    "require": {},
 
+    "minimum-stability": "stable",
+
+    "license": "MIT"
 }
